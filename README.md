@@ -26,7 +26,7 @@ Python 3.12.0
 
 1\. Clonar el repositorio:
 
-git clone [https://github.com/tuusuario/mi\_proyecto\_python.git](https://github.com/nasr1422/mi_proyecto_python.git)
+git clone https://github.com/nasr1422/mi_proyecto_python.git
 
 
 
